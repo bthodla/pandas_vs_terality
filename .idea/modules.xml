@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/pandas_vs_terality.iml" filepath="$PROJECT_DIR$/.idea/pandas_vs_terality.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python_learning/.idea/python_learning.iml" filepath="$PROJECT_DIR$/../python_learning/.idea/python_learning.iml" />
     </modules>
   </component>
 </project>

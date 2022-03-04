@@ -1,7 +1,7 @@
 {
     "file_path":"..\\\\data\\\\",
     "pandas_module": "pd.",
-    "terality_module": "tr.",
+    "terality_module": "te.",
     "tables": [
         {
             "table_name":"contact",
@@ -14,12 +14,12 @@
         },
         {
             "table_name":"customer",
-            "file_name":"customer.csv",
-            "file_type":"CSV",
+            "file_name":"customer.parquet",
+            "file_type":"PARQUET",
             "raw_df":"customer_df_raw",
             "index_col":"customer_id",
             "indexed_df":"customer_df",
-            "load_func": "read_csv"
+            "load_func": "read_parquet"
         },
         {
             "table_name":"product",
@@ -32,12 +32,12 @@
         },
         {
             "table_name":"state",
-            "file_name":"state.csv",
-            "file_type":"CSV",
+            "file_name":"state.parquet",
+            "file_type":"PARQUET",
             "raw_df":"state_df_raw",
             "index_col":"state_code",
             "indexed_df":"state_df",
-            "load_func": "read_csv"
+            "load_func": "read_parquet"
         },
         {
             "table_name":"txn",
@@ -50,12 +50,12 @@
         },
         {
             "table_name":"touch",
-            "file_name":"touch.csv",
-            "file_type":"CSV",
+            "file_name":"touch.parquet",
+            "file_type":"PARQUET",
             "raw_df":"touch_df_raw",
             "index_col":"txn_id",
             "indexed_df":"touch_df",
-            "load_func": "read_csv"
+            "load_func": "read_parquet"
         }
     ]
 }
