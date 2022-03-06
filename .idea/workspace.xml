@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7aa063c0-839e-4eb3-b94d-ce6ac6b2a9e9" name="Changes" comment="20220304 - Disabling caching in Terality">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pandas_vs_terality.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pandas_vs_terality.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/pandas_vs_terality.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/pandas_vs_terality.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/conf/sales_conf.json" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="25lDf8PQmWokxYmRnrdab4BSFX4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../python_learning" />
+    <property name="settings.editor.selected.configurable" value="Jupyter Settings" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7aa063c0-839e-4eb3-b94d-ce6ac6b2a9e9" name="Changes" comment="" />
+      <created>1646092881369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646092881369</updated>
+      <workItem from="1646092883862" duration="1725000" />
+      <workItem from="1646144737858" duration="7263000" />
+      <workItem from="1646243157485" duration="2408000" />
+      <workItem from="1646254413315" duration="189000" />
+      <workItem from="1646254681543" duration="601000" />
+      <workItem from="1646265837293" duration="79000" />
+      <workItem from="1646266039025" duration="2570000" />
+      <workItem from="1646310460896" duration="2228000" />
+      <workItem from="1646326366493" duration="12882000" />
+      <workItem from="1646421065132" duration="6086000" />
+      <workItem from="1646428684816" duration="3868000" />
+      <workItem from="1646450703390" duration="249000" />
+    </task>
+    <task id="LOCAL-00001" summary="20220304 - Disabling caching in Terality">
+      <created>1646420752586</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1646420752586</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="20220304 - Disabling caching in Terality" />
+    <option name="LAST_COMMIT_MESSAGE" value="20220304 - Disabling caching in Terality" />
+  </component>
+</project>
