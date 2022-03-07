@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7aa063c0-839e-4eb3-b94d-ce6ac6b2a9e9" name="Changes" comment="20220304 - Disabling caching in Terality">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pandas_vs_terality.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pandas_vs_terality.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/pandas_vs_terality_sales_demo.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/sales_conf.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/contact.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/customer.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/product.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/state.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/touch.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/txn.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/pandas_vs_terality.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/pandas_vs_terality.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,9 +28,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/conf/sales_conf.json" root0="FORCE_HIGHLIGHTING" />
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -37,8 +41,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../python_learning" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/notebooks" />
     <property name="settings.editor.selected.configurable" value="Jupyter Settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bhask\Documents\GitHub\pandas_vs_terality\notebooks" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -60,6 +69,8 @@
       <workItem from="1646421065132" duration="6086000" />
       <workItem from="1646428684816" duration="3868000" />
       <workItem from="1646450703390" duration="249000" />
+      <workItem from="1646586780260" duration="4182000" />
+      <workItem from="1646617442770" duration="567000" />
     </task>
     <task id="LOCAL-00001" summary="20220304 - Disabling caching in Terality">
       <created>1646420752586</created>
