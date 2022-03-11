@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7aa063c0-839e-4eb3-b94d-ce6ac6b2a9e9" name="Changes" comment="20220304 - Disabling caching in Terality">
-      <change afterPath="$PROJECT_DIR$/notebooks/pandas_vs_terality_sales_demo.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pandas_vs_terality.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pandas_vs_terality.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conf/sales_conf.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/contact.parquet" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/customer.parquet" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/product.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/state.parquet" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/touch.parquet" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/txn.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/pandas_vs_terality.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/pandas_vs_terality.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/pandas_vs_terality_sales_demo.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +18,17 @@
       <list>
         <option value="Python Script" />
       </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
     </option>
   </component>
   <component name="Git.Settings">
@@ -42,7 +48,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/notebooks" />
-    <property name="settings.editor.selected.configurable" value="Jupyter Settings" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -71,6 +77,23 @@
       <workItem from="1646450703390" duration="249000" />
       <workItem from="1646586780260" duration="4182000" />
       <workItem from="1646617442770" duration="567000" />
+      <workItem from="1646662614123" duration="58000" />
+      <workItem from="1646664876031" duration="847000" />
+      <workItem from="1646667902220" duration="107000" />
+      <workItem from="1646669560683" duration="205000" />
+      <workItem from="1646680290069" duration="1611000" />
+      <workItem from="1646683409380" duration="5645000" />
+      <workItem from="1646739897159" duration="763000" />
+      <workItem from="1646762603052" duration="57000" />
+      <workItem from="1646778047849" duration="1313000" />
+      <workItem from="1646864139428" duration="4761000" />
+      <workItem from="1646914440552" duration="2173000" />
+      <workItem from="1646917720918" duration="7839000" />
+      <workItem from="1646934612970" duration="121000" />
+      <workItem from="1646934757219" duration="143000" />
+      <workItem from="1646934926571" duration="4668000" />
+      <workItem from="1646951394532" duration="1943000" />
+      <workItem from="1647001466585" duration="5306000" />
     </task>
     <task id="LOCAL-00001" summary="20220304 - Disabling caching in Terality">
       <created>1646420752586</created>

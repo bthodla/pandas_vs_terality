@@ -1,0 +1,496 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"7aa063c0-839e-4eb3-b94d-ce6ac6b2a9e9\" name=\"Changes\" comment=\"20220304 - Disabling caching in Terality\">\r\n      <change afterPath=\"$PROJECT_DIR$/notebooks/pandas_vs_terality_sales_demo.ipynb\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/conf/sales_conf.json\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/data/contact.parquet\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/data/customer.parquet\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/data/product.json\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/data/state.parquet\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/data/touch.parquet\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/data/txn.csv\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/notebooks/pandas_vs_terality.ipynb\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/notebooks/pandas_vs_terality.ipynb\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"25lDf8PQmWokxYmRnrdab4BSFX4\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$/notebooks\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"Jupyter Settings\" />\r\n  </component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\bhask\\Documents\\GitHub\\pandas_vs_terality\\notebooks\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"7aa063c0-839e-4eb3-b94d-ce6ac6b2a9e9\" name=\"Changes\" comment=\"\" />\r\n      <created>1646092881369</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1646092881369</updated>\r\n      <workItem from=\"1646092883862\" duration=\"1725000\" />\r\n      <workItem from=\"1646144737858\" duration=\"7263000\" />\r\n      <workItem from=\"1646243157485\" duration=\"2408000\" />\r\n      <workItem from=\"1646254413315\" duration=\"189000\" />\r\n      <workItem from=\"1646254681543\" duration=\"601000\" />\r\n      <workItem from=\"1646265837293\" duration=\"79000\" />\r\n      <workItem from=\"1646266039025\" duration=\"2570000\" />\r\n      <workItem from=\"1646310460896\" duration=\"2228000\" />\r\n      <workItem from=\"1646326366493\" duration=\"12882000\" />\r\n      <workItem from=\"1646421065132\" duration=\"6086000\" />\r\n      <workItem from=\"1646428684816\" duration=\"3868000\" />\r\n      <workItem from=\"1646450703390\" duration=\"249000\" />\r\n      <workItem from=\"1646586780260\" duration=\"4182000\" />\r\n      <workItem from=\"1646617442770\" duration=\"567000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"20220304 - Disabling caching in Terality\">\r\n      <created>1646420752586</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1646420752586</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"2\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"20220304 - Disabling caching in Terality\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"20220304 - Disabling caching in Terality\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 1067636dea5373f8661b68d7235c8e980066dc98)
++++ b/.idea/workspace.xml	(date 1646740403241)
+@@ -2,15 +2,9 @@
+ <project version="4">
+   <component name="ChangeListManager">
+     <list default="true" id="7aa063c0-839e-4eb3-b94d-ce6ac6b2a9e9" name="Changes" comment="20220304 - Disabling caching in Terality">
+-      <change afterPath="$PROJECT_DIR$/notebooks/pandas_vs_terality_sales_demo.ipynb" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/pandas_vs_terality.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pandas_vs_terality.iml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/conf/sales_conf.json" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/data/contact.parquet" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/data/customer.parquet" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/data/product.json" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/data/state.parquet" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/data/touch.parquet" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/data/txn.csv" beforeDir="false" />
+       <change beforePath="$PROJECT_DIR$/notebooks/pandas_vs_terality.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/pandas_vs_terality.ipynb" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+@@ -23,6 +17,17 @@
+       <list>
+         <option value="Python Script" />
+       </list>
++    </option>
++  </component>
++  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
++    <envs>
++      <env key="FLASK_APP" value="app" />
++    </envs>
++    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
++    <option name="myEnvs">
++      <map>
++        <entry key="FLASK_APP" value="app" />
++      </map>
+     </option>
+   </component>
+   <component name="Git.Settings">
+@@ -41,8 +46,8 @@
+     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+     <property name="WebServerToolWindowFactoryState" value="false" />
+-    <property name="last_opened_file_path" value="$PROJECT_DIR$/notebooks" />
+-    <property name="settings.editor.selected.configurable" value="Jupyter Settings" />
++    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
++    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+   </component>
+   <component name="RecentsManager">
+     <key name="CopyFile.RECENT_KEYS">
+@@ -71,6 +76,13 @@
+       <workItem from="1646450703390" duration="249000" />
+       <workItem from="1646586780260" duration="4182000" />
+       <workItem from="1646617442770" duration="567000" />
++      <workItem from="1646662614123" duration="58000" />
++      <workItem from="1646664876031" duration="847000" />
++      <workItem from="1646667902220" duration="107000" />
++      <workItem from="1646669560683" duration="205000" />
++      <workItem from="1646680290069" duration="1611000" />
++      <workItem from="1646683409380" duration="5645000" />
++      <workItem from="1646739897159" duration="497000" />
+     </task>
+     <task id="LOCAL-00001" summary="20220304 - Disabling caching in Terality">
+       <created>1646420752586</created>
+Index: .idea/pandas_vs_terality.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<module type=\"PYTHON_MODULE\" version=\"4\">\r\n  <component name=\"NewModuleRootManager\">\r\n    <content url=\"file://$MODULE_DIR$\" />\r\n    <orderEntry type=\"jdk\" jdkName=\"Python 3.9 (data_science)\" jdkType=\"Python SDK\" />\r\n    <orderEntry type=\"sourceFolder\" forTests=\"false\" />\r\n  </component>\r\n</module>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/pandas_vs_terality.iml b/.idea/pandas_vs_terality.iml
+--- a/.idea/pandas_vs_terality.iml	(revision 1067636dea5373f8661b68d7235c8e980066dc98)
++++ b/.idea/pandas_vs_terality.iml	(date 1646667181620)
+@@ -2,7 +2,7 @@
+ <module type="PYTHON_MODULE" version="4">
+   <component name="NewModuleRootManager">
+     <content url="file://$MODULE_DIR$" />
+-    <orderEntry type="jdk" jdkName="Python 3.9 (data_science)" jdkType="Python SDK" />
++    <orderEntry type="jdk" jdkName="Python 3.9 (base)" jdkType="Python SDK" />
+     <orderEntry type="sourceFolder" forTests="false" />
+   </component>
+ </module>
+\ No newline at end of file
+Index: notebooks/pandas_vs_terality.ipynb
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>{\r\n \"cells\": [\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"execution_count\": 1,\r\n   \"id\": \"1b77b18c\",\r\n   \"metadata\": {},\r\n   \"outputs\": [],\r\n   \"source\": [\r\n    \"import pandas as pd\\n\",\r\n    \"import terality as te\\n\",\r\n    \"import json\\n\",\r\n    \"import pyarrow.parquet as pq\\n\",\r\n    \"from codetiming import Timer\\n\",\r\n    \"import logging\\n\"\r\n   ]\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"execution_count\": 2,\r\n   \"id\": \"d645ab8c\",\r\n   \"metadata\": {\r\n    \"pycharm\": {\r\n     \"name\": \"#%%\\n\"\r\n    }\r\n   },\r\n   \"outputs\": [],\r\n   \"source\": [\r\n    \"file_path = \\\"..\\\\\\\\\\\\\\\\..\\\\\\\\\\\\\\\\..\\\\\\\\\\\\\\\\..\\\\\\\\\\\\\\\\Google Drive\\\\\\\\\\\\\\\\datasets\\\\\\\\\\\\\\\\Chicago_taxi_trips\\\\\\\\\\\\\\\\\\\"\\n\",\r\n    \"timer = Timer(name=\\\"Terality Tests\\\")\\n\",\r\n    \"logging.getLogger(\\\"terality\\\").setLevel(logging.WARNING)\"\r\n   ]\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"execution_count\": 14,\r\n   \"id\": \"9e999fc5\",\r\n   \"metadata\": {\r\n    \"pycharm\": {\r\n     \"name\": \"#%%\\n\"\r\n    }\r\n   },\r\n   \"outputs\": [],\r\n   \"source\": [\r\n    \"# timer.stop()\\n\",\r\n    \"# product_tdf.info()\"\r\n   ]\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"execution_count\": 3,\r\n   \"id\": \"70defdca\",\r\n   \"metadata\": {\r\n    \"pycharm\": {\r\n     \"name\": \"#%%\\n\"\r\n    }\r\n   },\r\n   \"outputs\": [\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"Elapsed time: 141.2374 seconds\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"data\": {\r\n      \"text/plain\": \"141.2373604\"\r\n     },\r\n     \"execution_count\": 3,\r\n     \"metadata\": {},\r\n     \"output_type\": \"execute_result\"\r\n    }\r\n   ],\r\n   \"source\": [\r\n    \"# Loading data into dataframes using Pandas\\n\",\r\n    \"timer.start()\\n\",\r\n    \"\\n\",\r\n    \"taxi_trips_df = pd.read_csv(file_path + \\\"Taxi_Trips_2019_2020.csv\\\")\\n\",\r\n    \"\\n\",\r\n    \"timer.stop()\"\r\n   ]\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"execution_count\": 4,\r\n   \"outputs\": [\r\n    {\r\n     \"data\": {\r\n      \"text/plain\": \"20366397\"\r\n     },\r\n     \"execution_count\": 4,\r\n     \"metadata\": {},\r\n     \"output_type\": \"execute_result\"\r\n    }\r\n   ],\r\n   \"source\": [\r\n    \"taxi_trips_df.shape[0]\"\r\n   ],\r\n   \"metadata\": {\r\n    \"collapsed\": false,\r\n    \"pycharm\": {\r\n     \"name\": \"#%%\\n\"\r\n    }\r\n   }\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"execution_count\": 5,\r\n   \"outputs\": [],\r\n   \"source\": [\r\n    \"columns = [\\n\",\r\n    \"'trip_id',\\n\",\r\n    \"'taxi_id',\\n\",\r\n    \"'trip_start_timestamp',\\n\",\r\n    \"'trip_end_timestamp',\\n\",\r\n    \"'trip_seconds',\\n\",\r\n    \"'trip_miles',\\n\",\r\n    \"'pickup_census_tract',\\n\",\r\n    \"'dropoff_census_tract',\\n\",\r\n    \"'pickup_community_area',\\n\",\r\n    \"'dropoff_community_area',\\n\",\r\n    \"'fare',\\n\",\r\n    \"'tips',\\n\",\r\n    \"'tolls',\\n\",\r\n    \"'extras',\\n\",\r\n    \"'trip_total',\\n\",\r\n    \"'payment_type',\\n\",\r\n    \"'company',\\n\",\r\n    \"'pickup_centroid_latitude',\\n\",\r\n    \"'pickup_centroid_longitude',\\n\",\r\n    \"'pickup_centroid_location',\\n\",\r\n    \"'dropoff_centroid_latitude',\\n\",\r\n    \"'dropoff_centroid_longitude',\\n\",\r\n    \"'dropoff_centroid__location'\\n\",\r\n    \"]\"\r\n   ],\r\n   \"metadata\": {\r\n    \"collapsed\": false,\r\n    \"pycharm\": {\r\n     \"name\": \"#%%\\n\"\r\n    }\r\n   }\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"execution_count\": 6,\r\n   \"outputs\": [],\r\n   \"source\": [\r\n    \"taxi_trips_df.columns = columns\"\r\n   ],\r\n   \"metadata\": {\r\n    \"collapsed\": false,\r\n    \"pycharm\": {\r\n     \"name\": \"#%%\\n\"\r\n    }\r\n   }\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"execution_count\": 7,\r\n   \"outputs\": [\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"<class 'pandas.core.frame.DataFrame'>\\n\",\r\n      \"RangeIndex: 20366397 entries, 0 to 20366396\\n\",\r\n      \"Data columns (total 23 columns):\\n\",\r\n      \" #   Column                      Dtype  \\n\",\r\n      \"---  ------                      -----  \\n\",\r\n      \" 0   trip_id                     object \\n\",\r\n      \" 1   taxi_id                     object \\n\",\r\n      \" 2   trip_start_timestamp        object \\n\",\r\n      \" 3   trip_end_timestamp          object \\n\",\r\n      \" 4   trip_seconds                float64\\n\",\r\n      \" 5   trip_miles                  float64\\n\",\r\n      \" 6   pickup_census_tract         float64\\n\",\r\n      \" 7   dropoff_census_tract        float64\\n\",\r\n      \" 8   pickup_community_area       float64\\n\",\r\n      \" 9   dropoff_community_area      float64\\n\",\r\n      \" 10  fare                        float64\\n\",\r\n      \" 11  tips                        float64\\n\",\r\n      \" 12  tolls                       float64\\n\",\r\n      \" 13  extras                      float64\\n\",\r\n      \" 14  trip_total                  float64\\n\",\r\n      \" 15  payment_type                object \\n\",\r\n      \" 16  company                     object \\n\",\r\n      \" 17  pickup_centroid_latitude    float64\\n\",\r\n      \" 18  pickup_centroid_longitude   float64\\n\",\r\n      \" 19  pickup_centroid_location    object \\n\",\r\n      \" 20  dropoff_centroid_latitude   float64\\n\",\r\n      \" 21  dropoff_centroid_longitude  float64\\n\",\r\n      \" 22  dropoff_centroid__location  object \\n\",\r\n      \"dtypes: float64(15), object(8)\\n\",\r\n      \"memory usage: 3.5+ GB\\n\"\r\n     ]\r\n    }\r\n   ],\r\n   \"source\": [\r\n    \"taxi_trips_df.info()\"\r\n   ],\r\n   \"metadata\": {\r\n    \"collapsed\": false,\r\n    \"pycharm\": {\r\n     \"name\": \"#%%\\n\"\r\n    }\r\n   }\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"execution_count\": 5,\r\n   \"id\": \"bfcff7e9\",\r\n   \"metadata\": {\r\n    \"pycharm\": {\r\n     \"name\": \"#%%\\n\"\r\n    }\r\n   },\r\n   \"outputs\": [\r\n    {\r\n     \"name\": \"stderr\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"..\\\\\\\\data\\\\\\\\contact.parquet: 100%|███████████████████████████████████████████████████| 6.68M/6.68M [00:12<00:00, 545kB/s]\\n\",\r\n      \"..\\\\\\\\data\\\\\\\\product.json: 100%|██████████████████████████████████████████████████████| 79.9k/79.9k [00:00<00:00, 209kB/s]\\n\",\r\n      \"WARNING:terality:Slow operation: pandas.read_json was executed on our non-parallelized engine [https://www.terality.com/post/inside-terality-the-non-parallelized-engine]. Please reach out to support@terality.com if you’d like us to prioritise the implementation of the function.\\n\",\r\n      \"..\\\\\\\\data\\\\\\\\txn.csv: 100%|██████████████████████████████████████████████████████████| 51.4M/51.4M [00:16<00:00, 3.06MB/s]\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"Elapsed time: 35.8867 seconds\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"data\": {\r\n      \"text/plain\": [\r\n       \"35.8866762\"\r\n      ]\r\n     },\r\n     \"execution_count\": 5,\r\n     \"metadata\": {},\r\n     \"output_type\": \"execute_result\"\r\n    }\r\n   ],\r\n   \"source\": [\r\n    \"# Loading data into dataframes using Terality\\n\",\r\n    \"timer.start()\\n\",\r\n    \"\\n\",\r\n    \"with te.disable_cache():\\n\",\r\n    \"    contact_tdf = te.read_parquet(file_path + \\\"contact.parquet\\\")\\n\",\r\n    \"    product_tdf = te.read_json(file_path + \\\"product.json\\\")\\n\",\r\n    \"    txn_tdf = te.read_csv(file_path + 'txn.csv')\\n\",\r\n    \"\\n\",\r\n    \"timer.stop()\"\r\n   ]\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"execution_count\": 6,\r\n   \"id\": \"88dcdee9\",\r\n   \"metadata\": {\r\n    \"pycharm\": {\r\n     \"is_executing\": true,\r\n     \"name\": \"#%%\\n\"\r\n    }\r\n   },\r\n   \"outputs\": [\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"Elapsed time: 247.8482 seconds\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"data\": {\r\n      \"text/plain\": [\r\n       \"247.84816089999998\"\r\n      ]\r\n     },\r\n     \"execution_count\": 6,\r\n     \"metadata\": {},\r\n     \"output_type\": \"execute_result\"\r\n    }\r\n   ],\r\n   \"source\": [\r\n    \"# Sum a column value across the entire dataframe with about 200k rows - using Pandas\\n\",\r\n    \"timer.start()\\n\",\r\n    \"\\n\",\r\n    \"contact_pdf.sum()['opportunity']\\n\",\r\n    \"\\n\",\r\n    \"timer.stop()\"\r\n   ]\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"execution_count\": 7,\r\n   \"id\": \"fc3418f2\",\r\n   \"metadata\": {\r\n    \"pycharm\": {\r\n     \"name\": \"#%%\\n\"\r\n    }\r\n   },\r\n   \"outputs\": [\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"Elapsed time: 10.5582 seconds\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"data\": {\r\n      \"text/plain\": [\r\n       \"10.558202400000027\"\r\n      ]\r\n     },\r\n     \"execution_count\": 7,\r\n     \"metadata\": {},\r\n     \"output_type\": \"execute_result\"\r\n    }\r\n   ],\r\n   \"source\": [\r\n    \"# Sum a column value across the entire dataframe with about 200k rows - using Terality\\n\",\r\n    \"timer.start()\\n\",\r\n    \"\\n\",\r\n    \"contact_tdf.sum()['opportunity']\\n\",\r\n    \"\\n\",\r\n    \"timer.stop()\"\r\n   ]\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"execution_count\": null,\r\n   \"id\": \"e63ad325\",\r\n   \"metadata\": {\r\n    \"pycharm\": {\r\n     \"name\": \"#%%\\n\"\r\n    }\r\n   },\r\n   \"outputs\": [],\r\n   \"source\": [\r\n    \"# Sum a column value across the entire dataframe with about 1M rows - using Pandas\\n\",\r\n    \"timer.start()\\n\",\r\n    \"\\n\",\r\n    \"net_txn_amount = txn_pdf.sum()['sales']\\n\",\r\n    \"print(\\\"Net Txn Amount: \\\", net_txn_amount)\\n\",\r\n    \"\\n\",\r\n    \"timer.stop()\"\r\n   ]\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"execution_count\": null,\r\n   \"id\": \"5e36d297\",\r\n   \"metadata\": {\r\n    \"pycharm\": {\r\n     \"name\": \"#%%\\n\"\r\n    }\r\n   },\r\n   \"outputs\": [],\r\n   \"source\": [\r\n    \"# Sum a column value across the entire dataframe with about 1M rows - using Terality\\n\",\r\n    \"timer.start()\\n\",\r\n    \"\\n\",\r\n    \"net_txn_amount = txn_tdf.sum()['sales']\\n\",\r\n    \"print(\\\"Net Txn Amount: \\\", net_txn_amount)\\n\",\r\n    \"\\n\",\r\n    \"timer.stop()\"\r\n   ]\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"execution_count\": 8,\r\n   \"id\": \"5ace3427\",\r\n   \"metadata\": {\r\n    \"pycharm\": {\r\n     \"name\": \"#%%\\n\"\r\n    }\r\n   },\r\n   \"outputs\": [\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"Elapsed time: 0.3382 seconds\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"data\": {\r\n      \"text/plain\": [\r\n       \"0.33816919999998163\"\r\n      ]\r\n     },\r\n     \"execution_count\": 8,\r\n     \"metadata\": {},\r\n     \"output_type\": \"execute_result\"\r\n    }\r\n   ],\r\n   \"source\": [\r\n    \"# Sum a column value grouped by another column across the entire dataframe with about 1M rows - using Pandas\\n\",\r\n    \"timer.start()\\n\",\r\n    \"\\n\",\r\n    \"txn_pdf.groupby('contact_id').sum()[['sales'] + ['redemptions']]\\n\",\r\n    \"\\n\",\r\n    \"timer.stop()\"\r\n   ]\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"execution_count\": 9,\r\n   \"id\": \"c87ece3d\",\r\n   \"metadata\": {},\r\n   \"outputs\": [\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"Elapsed time: 3.3017 seconds\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"data\": {\r\n      \"text/plain\": [\r\n       \"3.30167449999999\"\r\n      ]\r\n     },\r\n     \"execution_count\": 9,\r\n     \"metadata\": {},\r\n     \"output_type\": \"execute_result\"\r\n    }\r\n   ],\r\n   \"source\": [\r\n    \"# Sum a column value grouped by another column across the entire dataframe with about 1M rows - using Terality\\n\",\r\n    \"timer.start()\\n\",\r\n    \"\\n\",\r\n    \"txn_tdf.groupby('contact_id').sum()[['sales'] + ['redemptions']]\\n\",\r\n    \"\\n\",\r\n    \"timer.stop()\"\r\n   ]\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"execution_count\": 10,\r\n   \"id\": \"102b12ce\",\r\n   \"metadata\": {},\r\n   \"outputs\": [\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"Elapsed time: 0.2162 seconds\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"data\": {\r\n      \"text/plain\": [\r\n       \"0.21618570000003956\"\r\n      ]\r\n     },\r\n     \"execution_count\": 10,\r\n     \"metadata\": {},\r\n     \"output_type\": \"execute_result\"\r\n    }\r\n   ],\r\n   \"source\": [\r\n    \"# Describe the dataframe columns and their types - using Pandas\\n\",\r\n    \"timer.start()\\n\",\r\n    \"\\n\",\r\n    \"txn_pdf.describe()\\n\",\r\n    \"\\n\",\r\n    \"timer.stop()\"\r\n   ]\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"execution_count\": 11,\r\n   \"id\": \"f01a3c02\",\r\n   \"metadata\": {},\r\n   \"outputs\": [\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"Elapsed time: 5.0994 seconds\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"data\": {\r\n      \"text/plain\": [\r\n       \"5.0994470999999635\"\r\n      ]\r\n     },\r\n     \"execution_count\": 11,\r\n     \"metadata\": {},\r\n     \"output_type\": \"execute_result\"\r\n    }\r\n   ],\r\n   \"source\": [\r\n    \"# Describe the dataframe columns and their types - using Terality\\n\",\r\n    \"timer.start()\\n\",\r\n    \"\\n\",\r\n    \"txn_tdf.describe()\\n\",\r\n    \"\\n\",\r\n    \"timer.stop()\"\r\n   ]\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"execution_count\": 12,\r\n   \"id\": \"a07c8171\",\r\n   \"metadata\": {},\r\n   \"outputs\": [\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"Elapsed time: 0.0001 seconds\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"data\": {\r\n      \"text/plain\": [\r\n       \"5.649999997103805e-05\"\r\n      ]\r\n     },\r\n     \"execution_count\": 12,\r\n     \"metadata\": {},\r\n     \"output_type\": \"execute_result\"\r\n    }\r\n   ],\r\n   \"source\": [\r\n    \"# Count of rows - using Pandas\\n\",\r\n    \"timer.start()\\n\",\r\n    \"\\n\",\r\n    \"txn_pdf.index.size\\n\",\r\n    \"\\n\",\r\n    \"timer.stop()\"\r\n   ]\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"execution_count\": 13,\r\n   \"id\": \"d3380e97\",\r\n   \"metadata\": {},\r\n   \"outputs\": [\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"Elapsed time: 0.7884 seconds\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"data\": {\r\n      \"text/plain\": [\r\n       \"0.7883520999999973\"\r\n      ]\r\n     },\r\n     \"execution_count\": 13,\r\n     \"metadata\": {},\r\n     \"output_type\": \"execute_result\"\r\n    }\r\n   ],\r\n   \"source\": [\r\n    \"# Count of rows - using Terality\\n\",\r\n    \"timer.start()\\n\",\r\n    \"\\n\",\r\n    \"txn_tdf.index.size\\n\",\r\n    \"\\n\",\r\n    \"timer.stop()\"\r\n   ]\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"execution_count\": 14,\r\n   \"id\": \"0458510c\",\r\n   \"metadata\": {},\r\n   \"outputs\": [\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"Elapsed time: 2.2027 seconds\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"data\": {\r\n      \"text/plain\": [\r\n       \"2.202657399999964\"\r\n      ]\r\n     },\r\n     \"execution_count\": 14,\r\n     \"metadata\": {},\r\n     \"output_type\": \"execute_result\"\r\n    }\r\n   ],\r\n   \"source\": [\r\n    \"# Sort by ticker - using Pandas\\n\",\r\n    \"timer.start()\\n\",\r\n    \"\\n\",\r\n    \"txn_pdf.sort_values(by = 'product_id')\\n\",\r\n    \"\\n\",\r\n    \"timer.stop()\"\r\n   ]\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"execution_count\": 15,\r\n   \"id\": \"eb196bad\",\r\n   \"metadata\": {},\r\n   \"outputs\": [\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"Elapsed time: 4.2181 seconds\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"data\": {\r\n      \"text/plain\": [\r\n       \"4.218130400000064\"\r\n      ]\r\n     },\r\n     \"execution_count\": 15,\r\n     \"metadata\": {},\r\n     \"output_type\": \"execute_result\"\r\n    }\r\n   ],\r\n   \"source\": [\r\n    \"# Sort by ticker - using Terality\\n\",\r\n    \"timer.start()\\n\",\r\n    \"\\n\",\r\n    \"txn_tdf.sort_values(by ='product_id')\\n\",\r\n    \"\\n\",\r\n    \"timer.stop()\"\r\n   ]\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"execution_count\": 16,\r\n   \"id\": \"14d1427b\",\r\n   \"metadata\": {},\r\n   \"outputs\": [\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"Elapsed time: 0.0004 seconds\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"data\": {\r\n      \"text/plain\": [\r\n       \"0.00039140000001225417\"\r\n      ]\r\n     },\r\n     \"execution_count\": 16,\r\n     \"metadata\": {},\r\n     \"output_type\": \"execute_result\"\r\n    }\r\n   ],\r\n   \"source\": [\r\n    \"# Slicing - using Pandas\\n\",\r\n    \"timer.start()\\n\",\r\n    \"\\n\",\r\n    \"txn_pdf[113:211]\\n\",\r\n    \"\\n\",\r\n    \"timer.stop()\"\r\n   ]\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"execution_count\": 17,\r\n   \"id\": \"f55e2548\",\r\n   \"metadata\": {},\r\n   \"outputs\": [\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"Elapsed time: 0.8531 seconds\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"data\": {\r\n      \"text/plain\": [\r\n       \"0.8531338000000233\"\r\n      ]\r\n     },\r\n     \"execution_count\": 17,\r\n     \"metadata\": {},\r\n     \"output_type\": \"execute_result\"\r\n    }\r\n   ],\r\n   \"source\": [\r\n    \"# Slicing - using Terality\\n\",\r\n    \"timer.start()\\n\",\r\n    \"\\n\",\r\n    \"txn_tdf[113:211]\\n\",\r\n    \"\\n\",\r\n    \"timer.stop()\"\r\n   ]\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"execution_count\": 18,\r\n   \"id\": \"65a9a389\",\r\n   \"metadata\": {},\r\n   \"outputs\": [\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"Elapsed time: 0.0036 seconds\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"data\": {\r\n      \"text/plain\": [\r\n       \"0.0036301000000094064\"\r\n      ]\r\n     },\r\n     \"execution_count\": 18,\r\n     \"metadata\": {},\r\n     \"output_type\": \"execute_result\"\r\n    }\r\n   ],\r\n   \"source\": [\r\n    \"# Selecting a single row from an un-indexed dataframe - using Pandas\\n\",\r\n    \"timer.start()\\n\",\r\n    \"\\n\",\r\n    \"txn_pdf[txn_pdf['txn_id'] == 423603758]\\n\",\r\n    \"\\n\",\r\n    \"timer.stop()\"\r\n   ]\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"execution_count\": 19,\r\n   \"id\": \"b0ef714a\",\r\n   \"metadata\": {\r\n    \"pycharm\": {\r\n     \"name\": \"#%%\\n\"\r\n    }\r\n   },\r\n   \"outputs\": [\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"Elapsed time: 2.3734 seconds\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"data\": {\r\n      \"text/plain\": [\r\n       \"2.373365100000001\"\r\n      ]\r\n     },\r\n     \"execution_count\": 19,\r\n     \"metadata\": {},\r\n     \"output_type\": \"execute_result\"\r\n    }\r\n   ],\r\n   \"source\": [\r\n    \"# Selecting a single row from an un-indexed dataframe - using Terality\\n\",\r\n    \"timer.start()\\n\",\r\n    \"\\n\",\r\n    \"txn_tdf[txn_tdf['txn_id'] == 423603758]\\n\",\r\n    \"\\n\",\r\n    \"timer.stop()\"\r\n   ]\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"execution_count\": 20,\r\n   \"id\": \"fd43772b\",\r\n   \"metadata\": {},\r\n   \"outputs\": [\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"Elapsed time: 0.0993 seconds\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"data\": {\r\n      \"text/plain\": [\r\n       \"0.09928609999997207\"\r\n      ]\r\n     },\r\n     \"execution_count\": 20,\r\n     \"metadata\": {},\r\n     \"output_type\": \"execute_result\"\r\n    }\r\n   ],\r\n   \"source\": [\r\n    \"#filters\\n\",\r\n    \"timer.start()\\n\",\r\n    \"\\n\",\r\n    \"txn_pdf[txn_pdf['product_id'].isin(['FPHAX', 'VSIAX', 'PRNHX', 'FKTFX', 'VEIEX'])]\\n\",\r\n    \"\\n\",\r\n    \"timer.stop()\"\r\n   ]\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"execution_count\": 21,\r\n   \"id\": \"33af3067\",\r\n   \"metadata\": {},\r\n   \"outputs\": [\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"Elapsed time: 2.4200 seconds\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"data\": {\r\n      \"text/plain\": [\r\n       \"2.420022200000062\"\r\n      ]\r\n     },\r\n     \"execution_count\": 21,\r\n     \"metadata\": {},\r\n     \"output_type\": \"execute_result\"\r\n    }\r\n   ],\r\n   \"source\": [\r\n    \"#filters\\n\",\r\n    \"timer.start()\\n\",\r\n    \"\\n\",\r\n    \"txn_tdf[txn_tdf['product_id'].isin(['FPHAX', 'VSIAX', 'PRNHX', 'FKTFX', 'VEIEX'])]\\n\",\r\n    \"\\n\",\r\n    \"timer.stop()\"\r\n   ]\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"execution_count\": 22,\r\n   \"id\": \"746ab965\",\r\n   \"metadata\": {\r\n    \"pycharm\": {\r\n     \"name\": \"#%%\\n\"\r\n    }\r\n   },\r\n   \"outputs\": [\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"Elapsed time: 2.0853 seconds\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"data\": {\r\n      \"text/plain\": [\r\n       \"2.08529580000004\"\r\n      ]\r\n     },\r\n     \"execution_count\": 22,\r\n     \"metadata\": {},\r\n     \"output_type\": \"execute_result\"\r\n    }\r\n   ],\r\n   \"source\": [\r\n    \"# Merging two dataframes - using Pandas\\n\",\r\n    \"timer.start()\\n\",\r\n    \"\\n\",\r\n    \"contact_pdf.merge(txn_pdf, on='contact_id')\\n\",\r\n    \"\\n\",\r\n    \"timer.stop()\"\r\n   ]\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"execution_count\": 23,\r\n   \"id\": \"66e2657f\",\r\n   \"metadata\": {},\r\n   \"outputs\": [\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"Elapsed time: 9.0715 seconds\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"data\": {\r\n      \"text/plain\": [\r\n       \"9.071548899999925\"\r\n      ]\r\n     },\r\n     \"execution_count\": 23,\r\n     \"metadata\": {},\r\n     \"output_type\": \"execute_result\"\r\n    }\r\n   ],\r\n   \"source\": [\r\n    \"# Merging two dataframes - using Terality\\n\",\r\n    \"timer.start()\\n\",\r\n    \"\\n\",\r\n    \"contact_tdf.merge(txn_tdf, on='contact_id')\\n\",\r\n    \"\\n\",\r\n    \"timer.stop()\"\r\n   ]\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"execution_count\": 24,\r\n   \"id\": \"e6c55663\",\r\n   \"metadata\": {},\r\n   \"outputs\": [\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"Elapsed time: 1.0281 seconds\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"data\": {\r\n      \"text/plain\": [\r\n       \"1.0280862000000752\"\r\n      ]\r\n     },\r\n     \"execution_count\": 24,\r\n     \"metadata\": {},\r\n     \"output_type\": \"execute_result\"\r\n    }\r\n   ],\r\n   \"source\": [\r\n    \"# Merging two dataframes and grouping by a single column - using Pandas\\n\",\r\n    \"timer.start()\\n\",\r\n    \"\\n\",\r\n    \"contact_pdf.merge(txn_pdf, on='contact_id').groupby('customer_id').sum()[['sales'] + ['redemptions']]\\n\",\r\n    \"\\n\",\r\n    \"timer.stop()\"\r\n   ]\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"execution_count\": 25,\r\n   \"id\": \"8dba01db\",\r\n   \"metadata\": {\r\n    \"pycharm\": {\r\n     \"is_executing\": true\r\n    }\r\n   },\r\n   \"outputs\": [\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"Elapsed time: 5.7810 seconds\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"data\": {\r\n      \"text/plain\": [\r\n       \"5.78103909999993\"\r\n      ]\r\n     },\r\n     \"execution_count\": 25,\r\n     \"metadata\": {},\r\n     \"output_type\": \"execute_result\"\r\n    }\r\n   ],\r\n   \"source\": [\r\n    \"# Merging two dataframes and grouping by a single column - using Terality\\n\",\r\n    \"timer.start()\\n\",\r\n    \"\\n\",\r\n    \"contact_tdf.merge(txn_tdf, on='contact_id').groupby('customer_id').sum()[['sales'] + ['redemptions']]\\n\",\r\n    \"\\n\",\r\n    \"timer.stop()\"\r\n   ]\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"execution_count\": 26,\r\n   \"id\": \"0ac64730\",\r\n   \"metadata\": {\r\n    \"pycharm\": {\r\n     \"name\": \"#%%\\n\"\r\n    },\r\n    \"scrolled\": true\r\n   },\r\n   \"outputs\": [\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"Elapsed time: 6.5483 seconds\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"data\": {\r\n      \"text/plain\": [\r\n       \"6.54834470000003\"\r\n      ]\r\n     },\r\n     \"execution_count\": 26,\r\n     \"metadata\": {},\r\n     \"output_type\": \"execute_result\"\r\n    }\r\n   ],\r\n   \"source\": [\r\n    \"# Merging three dataframes and grouping by two columns - using Pandas\\n\",\r\n    \"timer.start()\\n\",\r\n    \"\\n\",\r\n    \"contact_pdf.merge(txn_pdf, on='contact_id').merge(product_pdf, on='product_id').groupby(['customer_id', 'product_id']).sum()[['sales'] + ['redemptions']]\\n\",\r\n    \"\\n\",\r\n    \"timer.stop()\"\r\n   ]\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"execution_count\": 27,\r\n   \"id\": \"a324c32f\",\r\n   \"metadata\": {},\r\n   \"outputs\": [\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"Elapsed time: 23.8555 seconds\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"data\": {\r\n      \"text/plain\": [\r\n       \"23.855537199999958\"\r\n      ]\r\n     },\r\n     \"execution_count\": 27,\r\n     \"metadata\": {},\r\n     \"output_type\": \"execute_result\"\r\n    }\r\n   ],\r\n   \"source\": [\r\n    \"# Merging three dataframes and grouping by two columns - using Terality\\n\",\r\n    \"timer.start()\\n\",\r\n    \"\\n\",\r\n    \"contact_tdf.merge(txn_tdf, on='contact_id').merge(product_tdf, on='product_id').groupby(['customer_id', 'product_id']).sum()[['sales'] + ['redemptions']]\\n\",\r\n    \"\\n\",\r\n    \"timer.stop()\"\r\n   ]\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"execution_count\": null,\r\n   \"id\": \"51d5103a\",\r\n   \"metadata\": {},\r\n   \"outputs\": [],\r\n   \"source\": []\r\n  }\r\n ],\r\n \"metadata\": {\r\n  \"kernelspec\": {\r\n   \"display_name\": \"Python 3 (ipykernel)\",\r\n   \"language\": \"python\",\r\n   \"name\": \"python3\"\r\n  },\r\n  \"language_info\": {\r\n   \"codemirror_mode\": {\r\n    \"name\": \"ipython\",\r\n    \"version\": 3\r\n   },\r\n   \"file_extension\": \".py\",\r\n   \"mimetype\": \"text/x-python\",\r\n   \"name\": \"python\",\r\n   \"nbconvert_exporter\": \"python\",\r\n   \"pygments_lexer\": \"ipython3\",\r\n   \"version\": \"3.9.7\"\r\n  }\r\n },\r\n \"nbformat\": 4,\r\n \"nbformat_minor\": 5\r\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/notebooks/pandas_vs_terality.ipynb b/notebooks/pandas_vs_terality.ipynb
+--- a/notebooks/pandas_vs_terality.ipynb	(revision 1067636dea5373f8661b68d7235c8e980066dc98)
++++ b/notebooks/pandas_vs_terality.ipynb	(date 1646696424390)
+@@ -2,7 +2,7 @@
+  "cells": [
+   {
+    "cell_type": "code",
+-   "execution_count": 1,
++   "execution_count": 19,
+    "id": "1b77b18c",
+    "metadata": {},
+    "outputs": [],
+@@ -11,13 +11,14 @@
+     "import terality as te\n",
+     "import json\n",
+     "import pyarrow.parquet as pq\n",
+-    "from codetiming import Timer\n",
+-    "import logging\n"
++    "import logging\n",
++    "import time\n",
++    "from datetime import datetime"
+    ]
+   },
+   {
+    "cell_type": "code",
+-   "execution_count": 2,
++   "execution_count": 20,
+    "id": "d645ab8c",
+    "metadata": {
+     "pycharm": {
+@@ -26,76 +27,94 @@
+    },
+    "outputs": [],
+    "source": [
+-    "file_path = \"..\\\\\\\\..\\\\\\\\..\\\\\\\\..\\\\\\\\Google Drive\\\\\\\\datasets\\\\\\\\Chicago_taxi_trips\\\\\\\\\"\n",
+-    "timer = Timer(name=\"Terality Tests\")\n",
+-    "logging.getLogger(\"terality\").setLevel(logging.WARNING)"
++    "file_path = \"..\\\\\\\\..\\\\\\\\..\\\\\\\\..\\\\\\\\Google Drive\\\\\\\\datasets\\\\\\\\Chicago_taxi_trips\\\\\\\\\""
+    ]
+   },
+   {
+    "cell_type": "code",
+-   "execution_count": 14,
+-   "id": "9e999fc5",
++   "execution_count": 21,
++   "outputs": [],
++   "source": [
++    "def get_time():\n",
++    "    return datetime.now()"
++   ],
+    "metadata": {
++    "collapsed": false,
+     "pycharm": {
+      "name": "#%%\n"
+     }
+-   },
++   }
++  },
++  {
++   "cell_type": "code",
++   "execution_count": 22,
+    "outputs": [],
+    "source": [
+-    "# timer.stop()\n",
+-    "# product_tdf.info()"
+-   ]
+-  },
+-  {
+-   "cell_type": "code",
+-   "execution_count": 3,
+-   "id": "70defdca",
++    "def get_time_diff(start_time, end_time):\n",
++    "    return (end_time - start_time).total_seconds()"
++   ],
+    "metadata": {
++    "collapsed": false,
+     "pycharm": {
+      "name": "#%%\n"
+     }
+-   },
++   }
++  },
++  {
++   "cell_type": "code",
++   "execution_count": 24,
+    "outputs": [
+     {
+      "name": "stdout",
+      "output_type": "stream",
+      "text": [
+-      "Elapsed time: 141.2374 seconds\n"
++      "292.713779\n"
+      ]
+-    },
+-    {
+-     "data": {
+-      "text/plain": "141.2373604"
+-     },
+-     "execution_count": 3,
+-     "metadata": {},
+-     "output_type": "execute_result"
+     }
+    ],
+    "source": [
+     "# Loading data into dataframes using Pandas\n",
+-    "timer.start()\n",
++    "t_start = get_time()\n",
+     "\n",
+-    "taxi_trips_df = pd.read_csv(file_path + \"Taxi_Trips_2019_2020.csv\")\n",
++    "taxi_trips_pdf = pd.read_csv(file_path + \"Taxi_Trips_2019_2020.csv\")\n",
+     "\n",
+-    "timer.stop()"
+-   ]
++    "t_end = get_time()\n",
++    "print(get_time_diff(t_start, t_end))"
++   ],
++   "metadata": {
++    "collapsed": false,
++    "pycharm": {
++     "name": "#%%\n"
++    }
++   }
+   },
+   {
+    "cell_type": "code",
+-   "execution_count": 4,
++   "execution_count": 25,
+    "outputs": [
+     {
+-     "data": {
+-      "text/plain": "20366397"
+-     },
+-     "execution_count": 4,
+-     "metadata": {},
+-     "output_type": "execute_result"
++     "name": "stderr",
++     "output_type": "stream",
++     "text": [
++      "..\\\\..\\\\..\\\\..\\\\Google Drive\\\\datasets\\\\Chicago_taxi_trips\\\\Taxi_Trips_2019_2020.csv:   0%|          | 0.00/8.48G [00:02<?, ?B/s]\n"
++     ]
++    },
++    {
++     "name": "stdout",
++     "output_type": "stream",
++     "text": [
++      "36.503785\n"
++     ]
+     }
+    ],
+    "source": [
+-    "taxi_trips_df.shape[0]"
++    "# Loading data into dataframes using Pandas\n",
++    "t_start = get_time()\n",
++    "\n",
++    "taxi_trips_tdf = te.read_csv(file_path + \"Taxi_Trips_2019_2020.csv\")\n",
++    "\n",
++    "t_end = get_time()\n",
++    "print(get_time_diff(t_start, t_end))"
+    ],
+    "metadata": {
+     "collapsed": false,
+@@ -106,7 +125,13 @@
+   },
+   {
+    "cell_type": "code",
+-   "execution_count": 5,
++   "execution_count": 26,
++   "id": "7b34dfc4",
++   "metadata": {
++    "pycharm": {
++     "name": "#%%\n"
++    }
++   },
+    "outputs": [],
+    "source": [
+     "columns = [\n",
+@@ -134,20 +159,43 @@
+     "'dropoff_centroid_longitude',\n",
+     "'dropoff_centroid__location'\n",
+     "]"
+-   ],
++   ]
++  },
++  {
++   "cell_type": "code",
++   "execution_count": 27,
++   "id": "4b1f763f",
+    "metadata": {
+-    "collapsed": false,
+     "pycharm": {
+      "name": "#%%\n"
+     }
+-   }
++   },
++   "outputs": [],
++   "source": [
++    "taxi_trips_pdf.columns = columns\n",
++    "taxi_trips_tdf.columns = columns"
++   ]
+   },
+   {
+    "cell_type": "code",
+-   "execution_count": 6,
+-   "outputs": [],
++   "execution_count": 28,
++   "outputs": [
++    {
++     "name": "stdout",
++     "output_type": "stream",
++     "text": [
++      "Row count: 20366397\n",
++      "0.0\n"
++     ]
++    }
++   ],
+    "source": [
+-    "taxi_trips_df.columns = columns"
++    "t_start = get_time()\n",
++    "\n",
++    "print(\"Row count: %d\" % taxi_trips_pdf.shape[0])\n",
++    "\n",
++    "t_end = get_time()\n",
++    "print(get_time_diff(t_start, t_end))\n"
+    ],
+    "metadata": {
+     "collapsed": false,
+@@ -158,47 +206,24 @@
+   },
+   {
+    "cell_type": "code",
+-   "execution_count": 7,
++   "execution_count": 29,
+    "outputs": [
+     {
+      "name": "stdout",
+      "output_type": "stream",
+      "text": [
+-      "<class 'pandas.core.frame.DataFrame'>\n",
+-      "RangeIndex: 20366397 entries, 0 to 20366396\n",
+-      "Data columns (total 23 columns):\n",
+-      " #   Column                      Dtype  \n",
+-      "---  ------                      -----  \n",
+-      " 0   trip_id                     object \n",
+-      " 1   taxi_id                     object \n",
+-      " 2   trip_start_timestamp        object \n",
+-      " 3   trip_end_timestamp          object \n",
+-      " 4   trip_seconds                float64\n",
+-      " 5   trip_miles                  float64\n",
+-      " 6   pickup_census_tract         float64\n",
+-      " 7   dropoff_census_tract        float64\n",
+-      " 8   pickup_community_area       float64\n",
+-      " 9   dropoff_community_area      float64\n",
+-      " 10  fare                        float64\n",
+-      " 11  tips                        float64\n",
+-      " 12  tolls                       float64\n",
+-      " 13  extras                      float64\n",
+-      " 14  trip_total                  float64\n",
+-      " 15  payment_type                object \n",
+-      " 16  company                     object \n",
+-      " 17  pickup_centroid_latitude    float64\n",
+-      " 18  pickup_centroid_longitude   float64\n",
+-      " 19  pickup_centroid_location    object \n",
+-      " 20  dropoff_centroid_latitude   float64\n",
+-      " 21  dropoff_centroid_longitude  float64\n",
+-      " 22  dropoff_centroid__location  object \n",
+-      "dtypes: float64(15), object(8)\n",
+-      "memory usage: 3.5+ GB\n"
++      "Row count: 20366397\n",
++      "1.017796\n"
+      ]
+     }
+    ],
+    "source": [
+-    "taxi_trips_df.info()"
++    "t_start = get_time()\n",
++    "\n",
++    "print(\"Row count: %d\" % taxi_trips_tdf.shape[0])\n",
++    "\n",
++    "t_end = get_time()\n",
++    "print(get_time_diff(t_start, t_end))\n"
+    ],
+    "metadata": {
+     "collapsed": false,
+@@ -209,53 +234,70 @@
+   },
+   {
+    "cell_type": "code",
+-   "execution_count": 5,
+-   "id": "bfcff7e9",
++   "execution_count": 34,
++   "id": "591a880a",
+    "metadata": {
+     "pycharm": {
+      "name": "#%%\n"
+     }
+    },
++   "outputs": [],
++   "source": [
++    "t_start = get_time()\n",
++    "\n",
++    "taxi_trips_pdf.describe()\n",
++    "\n",
++    "t_end = get_time()\n"
++   ]
++  },
++  {
++   "cell_type": "code",
++   "execution_count": 35,
+    "outputs": [
+     {
+-     "name": "stderr",
++     "name": "stdout",
+      "output_type": "stream",
+      "text": [
+-      "..\\\\data\\\\contact.parquet: 100%|███████████████████████████████████████████████████| 6.68M/6.68M [00:12<00:00, 545kB/s]\n",
+-      "..\\\\data\\\\product.json: 100%|██████████████████████████████████████████████████████| 79.9k/79.9k [00:00<00:00, 209kB/s]\n",
+-      "WARNING:terality:Slow operation: pandas.read_json was executed on our non-parallelized engine [https://www.terality.com/post/inside-terality-the-non-parallelized-engine]. Please reach out to support@terality.com if you’d like us to prioritise the implementation of the function.\n",
+-      "..\\\\data\\\\txn.csv: 100%|██████████████████████████████████████████████████████████| 51.4M/51.4M [00:16<00:00, 3.06MB/s]\n"
++      "15.883121\n"
+      ]
+-    },
++    }
++   ],
++   "source": [
++    "print(get_time_diff(t_start, t_end))\n"
++   ],
++   "metadata": {
++    "collapsed": false,
++    "pycharm": {
++     "name": "#%%\n"
++    }
++   }
++  },
++  {
++   "cell_type": "code",
++   "execution_count": 36,
++   "outputs": [
+     {
+      "name": "stdout",
+      "output_type": "stream",
+      "text": [
+-      "Elapsed time: 35.8867 seconds\n"
++      "1.061491\n"
+      ]
+-    },
+-    {
+-     "data": {
+-      "text/plain": [
+-       "35.8866762"
+-      ]
+-     },
+-     "execution_count": 5,
+-     "metadata": {},
+-     "output_type": "execute_result"
+     }
+    ],
+    "source": [
+-    "# Loading data into dataframes using Terality\n",
+-    "timer.start()\n",
++    "t_start = get_time()\n",
+     "\n",
+-    "with te.disable_cache():\n",
+-    "    contact_tdf = te.read_parquet(file_path + \"contact.parquet\")\n",
+-    "    product_tdf = te.read_json(file_path + \"product.json\")\n",
+-    "    txn_tdf = te.read_csv(file_path + 'txn.csv')\n",
++    "taxi_trips_tdf.describe()\n",
+     "\n",
+-    "timer.stop()"
+-   ]
++    "t_end = get_time()\n",
++    "print(get_time_diff(t_start, t_end))"
++   ],
++   "metadata": {
++    "collapsed": false,
++    "pycharm": {
++     "name": "#%%\n"
++    }
++   }
+   },
+   {
+    "cell_type": "code",
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ProjectRootManager\" version=\"2\" project-jdk-name=\"Python 3.9 (data_science)\" project-jdk-type=\"Python SDK\" />\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+--- a/.idea/misc.xml	(revision 1067636dea5373f8661b68d7235c8e980066dc98)
++++ b/.idea/misc.xml	(date 1646667181697)
+@@ -1,4 +1,4 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (data_science)" project-jdk-type="Python SDK" />
++  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (base)" project-jdk-type="Python SDK" />
+ </project>
+\ No newline at end of file
