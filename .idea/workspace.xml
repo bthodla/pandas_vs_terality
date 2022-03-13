@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7aa063c0-839e-4eb3-b94d-ce6ac6b2a9e9" name="Changes" comment="20220304 - Disabling caching in Terality">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pandas_vs_terality.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pandas_vs_terality.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/pandas_vs_terality.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/pandas_vs_terality.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/pandas_vs_terality_sales_demo.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,6 +90,8 @@
       <workItem from="1646934926571" duration="4668000" />
       <workItem from="1646951394532" duration="1943000" />
       <workItem from="1647001466585" duration="5306000" />
+      <workItem from="1647086931498" duration="1813000" />
+      <workItem from="1647176627331" duration="150000" />
     </task>
     <task id="LOCAL-00001" summary="20220304 - Disabling caching in Terality">
       <created>1646420752586</created>
